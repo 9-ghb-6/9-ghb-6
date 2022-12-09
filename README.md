@@ -3,7 +3,8 @@
 
 **9-ghb-6/9-ghb-6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 # Heading 
-Here are some ideas to get you started:
+> 감혜빈혜빈
+> 주니어 개발자
 
 🔭 I’m currently working on ...sdf
 🌱 I’m currently learning ...sdf
@@ -13,4 +14,3 @@ Here are some ideas to get you started:
 📫 How to reach me: ...sdf
 😄 Pronouns: ...sdf
 ⚡ Fun fact: ...sdf
-sdf
