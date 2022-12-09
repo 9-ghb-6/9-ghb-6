@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **9-ghb-6/9-ghb-6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 # Heading 
 Here are some ideas to get you started:
